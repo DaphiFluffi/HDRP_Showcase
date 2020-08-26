@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 584bc9bf1831c954286213ba6627162e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bodenplatte1
+    100002: Bodenplatte2
+    100004: Shelf1
+    100006: Shelf2
+    100008: Shelf3
+    100010: //RootNode
+    100012: Wand_hinten
+    100014: Wand_hinten_party
+    100016: Wand_links
+    100018: Wand_miit_T_r
+    100020: Wand_Rechts
+    100022: Wand_vorrne
+    400000: Bodenplatte1
+    400002: Bodenplatte2
+    400004: Shelf1
+    400006: Shelf2
+    400008: Shelf3
+    400010: //RootNode
+    400012: Wand_hinten
+    400014: Wand_hinten_party
+    400016: Wand_links
+    400018: Wand_miit_T_r
+    400020: Wand_Rechts
+    400022: Wand_vorrne
+    2100000: Bodenplatte1Mat
+    2100002: Bodenplatte2Mat
+    2100004: Shelf1Mat
+    2100006: Shelf2Mat
+    2100008: Shelf3Mat
+    2100010: Wand_hintenMat
+    2100012: Wand_hinten_partyMat
+    2100014: Wand_linksMat
+    2100016: Wand_miit_T_rMat
+    2100018: Wand_RechtsMat
+    2100020: Wand_vorrneMat
+    2300000: Bodenplatte1
+    2300002: Bodenplatte2
+    2300004: Shelf1
+    2300006: Shelf2
+    2300008: Shelf3
+    2300010: Wand_hinten
+    2300012: Wand_hinten_party
+    2300014: Wand_links
+    2300016: Wand_miit_T_r
+    2300018: Wand_Rechts
+    2300020: Wand_vorrne
+    3300000: Bodenplatte1
+    3300002: Bodenplatte2
+    3300004: Shelf1
+    3300006: Shelf2
+    3300008: Shelf3
+    3300010: Wand_hinten
+    3300012: Wand_hinten_party
+    3300014: Wand_links
+    3300016: Wand_miit_T_r
+    3300018: Wand_Rechts
+    3300020: Wand_vorrne
+    4300000: Bodenplatte1
+    4300002: Bodenplatte2
+    4300004: Shelf1
+    4300006: Shelf2
+    4300008: Shelf3
+    4300010: Wand_hinten
+    4300012: Wand_hinten_party
+    4300014: Wand_links
+    4300016: Wand_miit_T_r
+    4300018: Wand_Rechts
+    4300020: Wand_vorrne
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

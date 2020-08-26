@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mcflu\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mcflu\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_AGPUebung2.-2057863558.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mcflu\AGPUebung2" t="IncludeRecursive">
+      <e p="AGPUebung2.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="MeshGeneration.cs" t="Include" />
+          <e p="Shape.cs" t="Include" />
+          <e p="SimpleCameraController.cs" t="Include" />
+          <e p="Spin.cs" t="Include" />
+          <e p="Webcam.cs" t="Include" />
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

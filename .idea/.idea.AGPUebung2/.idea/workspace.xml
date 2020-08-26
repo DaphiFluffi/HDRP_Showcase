@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ae62da0-1f49-4b49-a130-46e828cad764" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshGeneration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Webcam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shape.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshGenerationhHatFunktioniert.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Webcam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshGeneration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shape.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spin.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bwqeRqVj9pbTiTgzp7UdGEsJDz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ae62da0-1f49-4b49-a130-46e828cad764" name="Default Changelist" comment="" />
+      <created>1589553599809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589553599809</updated>
+      <workItem from="1589553607565" duration="4032000" />
+      <workItem from="1589641971185" duration="1699000" />
+      <workItem from="1589643951562" duration="651000" />
+      <workItem from="1589645481598" duration="249000" />
+      <workItem from="1589661735042" duration="1521000" />
+      <workItem from="1589825054384" duration="1397000" />
+      <workItem from="1589912207056" duration="8205000" />
+      <workItem from="1589985564972" duration="59000" />
+      <workItem from="1590618130028" duration="614000" />
+      <workItem from="1590668646934" duration="658000" />
+      <workItem from="1590675059089" duration="2147000" />
+      <workItem from="1590949730209" duration="750000" />
+      <workItem from="1591258796042" duration="7640000" />
+      <workItem from="1591478826850" duration="5239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="417" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591480223154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="417" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1591480223154" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589826150735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589826150735" />
+  </component>
+</project>
